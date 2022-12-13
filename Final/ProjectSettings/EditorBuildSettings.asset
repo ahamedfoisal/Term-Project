@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Second_Menu.unity
+    guid: 63da49f180661d3469a10bdfc3163ba3
+  - enabled: 1
+    path: Assets/Scenes/About_Us.unity
+    guid: 8857c2fb24200b74f9ecde1fcb872174
+  - enabled: 1
+    path: Assets/Scenes/Apartment 1.unity
+    guid: e7827c368d2b05a488c94b94f060beac
+  - enabled: 1
+    path: Assets/Scenes/apt_one.unity
+    guid: 4f34c75c3379ac54880096989c9c8d3e
+  - enabled: 1
+    path: Assets/Scenes/apt_three.unity
+    guid: eee0bbd6181f25c4fa9499f7bd0bda43
+  - enabled: 1
+    path: Assets/Scenes/brh.unity
+    guid: 7d4329128acb0c44c8ebd8735219ffd5
+  - enabled: 1
+    path: Assets/Scenes/brt.unity
+    guid: 53d5ad4d32084f446bc2dff85691684b
+  - enabled: 1
+    path: Assets/Scenes/bro.unity
+    guid: e0723e2ba273d5e45aa6d20b64447347
+  - enabled: 1
+    path: Assets/Scenes/apt_two.unity
+    guid: f3713cb4adbc81047b160297ea39d7a3
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1873befef0390634d83e6423c0ebbb95, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ba33aef86529383489174313b2ecdd43, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 62473d01babfba549b0c764efb934e20, type: 2}
